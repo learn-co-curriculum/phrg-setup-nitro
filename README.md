@@ -4,7 +4,7 @@ Congratulations on finishing your Rails project. You have learned a lot over the
 
 Take a moment to pat yourself on the back. Learning the ins & outs of Web Development is not easy. You have put in a lot of time and effort, and have come a long way!
 
-## 🎉
+## 🎉 🎉 🎉 🎉 🎉
 
 The Nitro Developer team is very excited to see you become a contributing member to Nitro! Step one is to fork and clone down a local copy of the main Nitro repository, named `nitro-web`. Your instructor will grant your Github profile access to the project very soon.
 
