@@ -10,7 +10,7 @@ The Nitro Developer team is very excited to see you become a contributing member
 
 ## Setup
 
-Once you have a copy locally, you must install the necessary dependencies to get Nitro up and running. We have tried to make this as simple as possible. However, Nitro grows quickly and its dependencies often change. You should anticipate the setup process to run into a number of bumps along the way. Your instructor will help resolve any issues with you as they arise.
+Once you have a copy locally, you must install the necessary dependencies, establish some configuration, and create your local database to get Nitro up and running. We have tried to make this as simple as possible. However, Nitro grows quickly and its dependencies often change. You should anticipate the setup process to run into a number of bumps along the way. Your instructor will help resolve any issues with you as they arise.
 
 ## Ready?
 
